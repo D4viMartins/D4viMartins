@@ -1,17 +1,80 @@
+<h1 align="center">Hey 👋, I'm Davi Martins</h1>
 
-<h1 align="center">Hi 👋, I'm Davi Martins</h1>
-<h3 align="center">I'm a Computer Science Student on my way to start a career in the IT area</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h3 align="center">💻 Computer Science Student | 🚀 Future Software Engineer | 🌎 Building my journey in tech</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4vimartinslima&label=Profile%20views&color=0e75b6&style=flat" alt="d4vimartinslima" /> </p>
-
-- 🌱 I’m currently learning **Html, Javascript, Css, Python**
-
-- 📄 Know about my experiences [in my personal site](https://d4vimartinslima.github.io/Personal-site/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davi martins lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davi martins lima" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Learning+Python%2C+Java+%26+Automation;Exploring+AI+%26+Data+Engineering;Creating+Tech+Projects+from+Scratch;Always+curious%2C+always+coding+💡" alt="Typing animation" />
 </p>
+
+---
+
+<img align="right" alt="Coding animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b57b72b7e7a6b6b7b2.gif">
+
+### 👨‍💻 About Me
+
+- 🎓 Currently studying **Computer Science** at Universidade Veiga de Almeida (RJ, Brazil)  
+- 🌱 Learning **Python**, **Java**, **Automation**, and **AI concepts**  
+- 🧠 Interested in **Machine Learning**, **n8n automations**, and **data projects**  
+- ⚙️ Constantly experimenting with **APIs**, **Tkinter GUIs**, and **Python automations**  
+- 💡 My goal: to create projects that **simplify real-world tasks with smart code**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Projects & Highlights
+
+💡 **Some things I’ve been working on:**
+- 🔐 Password Manager with Tkinter  
+- 📅 Birthday Email Automation using SMTP  
+- 🧠 Flashcard App for learning Spanish ↔ Portuguese  
+- ⏰ Pomodoro Timer for productivity  
+- ⚡ n8n Automations integrating AI APIs  
+- 🤖 Python scripts for data organization and personal productivity
+
+👉 Check out my repositories for detailed project READMEs and source code!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=d4vimartinslima&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=d4vimartinslima&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/davi-martins-lima" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="mailto:martinsdavilima03@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=d4vimartinslima&label=Profile+Views&color=00C2CB&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>“The best way to learn coding is by building things that matter.”</i> 🚀
+</p>
+
 
 

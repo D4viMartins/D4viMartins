@@ -3,7 +3,7 @@
 <h3 align="center">💻 Computer Science Student | 🚀 Future Software Engineer | 🌎 Building my journey in tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Learning+Python%2C+Java+%26+Automation;Exploring+AI+%26+Data+Engineering;Creating+Tech+Projects+from+Scratch;Always+curious%2C+always+coding+💡" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Learning+Python%2C+Java+%26+Automation;Exploring+AI+%26+Data+Engineering;Creating+Tech+Projects+from+Scratch;Always+curious%2C+always+coding+💡" 
 </p>
 
 ---
@@ -47,15 +47,6 @@
 - 🤖 Python scripts for data organization and personal productivity
 
 👉 Check out my repositories for detailed project READMEs and source code!
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=d4vimartinslima&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=d4vimartinslima&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 

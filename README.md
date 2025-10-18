@@ -3,6 +3,7 @@
 <h3 align="center">💻 Computer Science Student | 🚀 Future Software & AI Engineer | 🌎 Building my journey in tech</h3>
 
 <p align="center">
+  
 ---
 
 <img align="right" alt="Coding animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b57b72b7e7a6b6b7b2.gif">

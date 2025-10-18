@@ -38,7 +38,7 @@
 
 💡 **Some things I’ve been working on:**
 - 🔐 Password Manager with Tkinter  
-- 📅 Birthday Email Automation using SMTP  
+- 📅 Email Automation using SMTP  
 - 🧠 Flashcard App for learning Spanish ↔ Portuguese  
 - ⏰ Pomodoro Timer for productivity  
 - ⚡ n8n Automations integrating AI APIs  

@@ -1,11 +1,8 @@
 <h1 align="center">Hey 👋, I'm Davi Martins</h1>
 
-<h3 align="center">💻 Computer Science Student | 🚀 Future Software Engineer | 🌎 Building my journey in tech</h3>
+<h3 align="center">💻 Computer Science Student | 🚀 Future Software & AI Engineer | 🌎 Building my journey in tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Learning+Python%2C+Java+%26+Automation;Exploring+AI+%26+Data+Engineering;Creating+Tech+Projects+from+Scratch;Always+curious%2C+always+coding+💡" 
-</p>
-
 ---
 
 <img align="right" alt="Coding animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b57b72b7e7a6b6b7b2.gif">

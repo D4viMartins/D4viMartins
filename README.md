@@ -53,7 +53,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/davi-martins-lima" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="[https://www.linkedin.com/in/davimartins-lima/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="mailto:martinsdavilima03@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" /></a>
 </p>
 

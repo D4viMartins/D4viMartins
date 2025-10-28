@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Davi Martins</h1>
 
-<h3 align="center">💻 Computer Science Student | 🚀 Future Software & AI Engineer | 🌎 Building my journey in tech</h3>
+<h3 align="center">💻 Computer Science Student | 🚀 Software & AI Engineer | 🌎 Building my journey in tech</h3>
 
 <p align="center">
   

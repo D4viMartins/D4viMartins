@@ -43,6 +43,7 @@
 - ⏰ Pomodoro Timer for productivity  
 - ⚡ n8n Automations integrating AI APIs  
 - 🤖 Python scripts for data organization and personal productivity
+- 💡AI model to help companies to detect PPE on their employes
 
 👉 Check out my repositories for detailed project READMEs and source code!
 
